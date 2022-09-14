@@ -1,2 +1,3 @@
 # Solved.ac Profile
-![uuiip7878's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=uuiip7878)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=uuiip7878)](https://solved.ac/uuiip7878)
